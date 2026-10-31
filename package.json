@@ -28,7 +28,7 @@
     "pkgjs": "tsdown"
   },
   "engines": {
-    "node": ">=12"
+    "node": "24.x"
   },
   "keywords": [
     "酷狗音乐",
